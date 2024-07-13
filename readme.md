@@ -1,6 +1,6 @@
 # 5x5 Macropad for my mate Ben
 
-![benny_final]()
+![final_board](image.png)
 
 *I built a 5x5 Macropad, this is the QMK firmware for the board*
 
