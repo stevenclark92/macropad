@@ -1,0 +1,9 @@
+{
+    "keyboard": "benny_final",
+    "layout": "LAYOUT",
+    "layers": [
+                [
+                        "KC_B", "KC_O", "KC_O", "KC_B", "KC_I", "KC_E", "KC_S", "KC_L", "KC_O", "KC_L", "KC_A", "KC_B", "KC_C", "KC_D", "KC_E", "KC_F", "KC_G", "KC_H", "KC_I", "KC_J", "KC_K", "KC_L", "KC_M", "KC_N", "KC_O"
+                ]
+    ]
+}
